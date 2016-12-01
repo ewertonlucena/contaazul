@@ -13,7 +13,7 @@
                 <br/>
                 <?php if (isset($error) && !empty($error)): ?>
                 <div class="warning"><?php echo $error; ?></div>
-                <?php endif; ?>
+                <?php endif; ?>                
             </form>
             
         </div>

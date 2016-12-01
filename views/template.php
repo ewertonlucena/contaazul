@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Título do site</title>
+        <title>Dashboard - <?php echo $viewData['company_name']; ?></title>
         <link href="../assets/css/style.css" rel="stylesheet"/>
     </head>
     <body>

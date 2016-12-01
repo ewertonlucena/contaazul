@@ -19,7 +19,7 @@ class loginController extends controller {
                 header("Location: ". BASE_URL);
                 exit;
             } else {
-                $data['error'] = 'E-mail e/ou senha não conferem.';
+                $data['error'] = 'E-mail e/ou senha não conferem';
             }
         }
         
