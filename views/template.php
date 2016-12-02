@@ -12,9 +12,7 @@
                 <ul>
                     <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
                     <li><a href="<?php echo BASE_URL."/permissions"; ?>">Permissões</a></li>
-                    <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
-                    <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
-                    <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
+
                 </ul>
             </div>
         </div>

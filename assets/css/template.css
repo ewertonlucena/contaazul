@@ -71,3 +71,26 @@ body {
 .menuarea li:nth-child(2) {
     background-image: url('../imgs/key.png');
 }
+
+.area {
+    padding: 15px;
+}
+.tabitem {
+    float: left;
+    width: 20%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border: 1px solid #000;
+    background: #F5F5F5; /* Old browsers */
+    background: -moz-linear-gradient(top, #ffffff 0%, #e5e5e5 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffffff 0%,#e5e5e5 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    display: block;
+}
+.activetab {
+    border-bottom: 1px solid #FFF;
+    background: #FFF;
+}

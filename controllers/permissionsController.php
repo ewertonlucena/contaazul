@@ -1,10 +1,10 @@
 <?php
 /**
- * Description of homeController
+ * Description of permissionController
  *
- * @author ewertonlucena@gmail.com
+ * @author uploja
  */
-class homeController extends controller{
+class permissionsController extends controller {
     
     public function __construct() {
         parent::__construct();
@@ -25,6 +25,7 @@ class homeController extends controller{
         $data['company_name'] = $company->getName();
         $data['user_email'] = $u->getEmail();
         
-        $this->loadTemplate('home', $data);     
+        $this->loadTemplate('permissions', $data);     
     }
+    
 }

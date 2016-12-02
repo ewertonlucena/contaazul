@@ -16,6 +16,5 @@ if(ENVIRONMENT == "development"){
     $config['host'] = 'localhost';
     $config['dbuser'] = 'sexol671_ctazul';
     $config['dbpass'] = 'Ton@9811008';
-    
 }
 
