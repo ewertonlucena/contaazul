@@ -2,6 +2,8 @@
     <head>
         <title>Painel - <?php echo $viewData['company_name']; ?></title>
         <link href="../assets/css/template.css" rel="stylesheet"/>
+        <script type="text/javascript" src="../assets/js/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript" src="../assets/js/script.js"></script>
     </head>
     <body>
         <div class="leftmenu">

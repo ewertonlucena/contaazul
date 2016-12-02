@@ -47,7 +47,7 @@ class Users extends model {
                 $this->userInfo = $sql->fetch();
             }
         } else {
-            $this->logOut();
+            $this->logout();
         }
     }
         

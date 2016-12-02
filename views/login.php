@@ -9,7 +9,7 @@
             <form method="POST">
                 <input Type="email" name="email" placeholder="Digite ser e-mail"/>
                 <input Type="password" name="password" placeholder="Digite sua senha"/>
-                <input Type="submit" name="Entrar" />
+                <input Type="submit" value="Entrar" />
                 <br/>
                 <?php if (isset($error) && !empty($error)): ?>
                 <div class="warning"><?php echo $error; ?></div>
