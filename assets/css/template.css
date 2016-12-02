@@ -77,7 +77,7 @@ body {
 }
 .tabarea {
     padding-left: 10px;
-    z-index: 9999;
+    z-index: 99;
 }
 .tabitem {
     float: left;
@@ -90,20 +90,24 @@ body {
     border-top: 1px solid #000;
     border-left: 1px solid #000;
     border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
     background: #F5F5F5; /* Old browsers */
     background: -moz-linear-gradient(top, #ffffff 0%, #e5e5e5 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(top, #ffffff 0%,#e5e5e5 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     cursor: pointer;
+    
 }
 .activetab {
-    border-bottom: 1px solid #FFF;
+    border-bottom: 2px solid #FFF;
     background: #FFF;
     cursor: default;
+    z-index: 101;
 }
 .tabcontent {
     margin-top: 58px;
     border: 1px solid #000;
+    z-index: 100;
 }
 .tabbody {
     padding: 10px;
