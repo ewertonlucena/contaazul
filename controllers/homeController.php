@@ -22,12 +22,10 @@ class homeController extends controller{
         $u = new Users();
         $u->setLoggedUser();
         $id = $u->getCompany();
-       // echo "ID DA COMPANHIA ";
-       // print_r($id);
-       // exit;
         $company = new Companies($id);
         
         $data['company_name'] = $company->getName();
+        $data['user_email'] = $u->getEmail();
         
         $this->loadTemplate('home', $data);     
     }

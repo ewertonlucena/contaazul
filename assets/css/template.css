@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    font-family: Verdana;
+}
+.leftmenu {
+    width: 200px;
+    background-color: #1f232a;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+.company_name {
+    height: 100px;
+    line-height: 100px;
+    font-size: 18px;
+    color: #FFF;
+    text-align: center;
+}
+.container {
+    padding-left: 200px;
+}
+.top {
+    height: 40px;
+    line-height: 40px;
+    background-color: #232830;
+}
+.top-right {
+    height: 40px;
+    line-height: 40px;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 13px;
+    color: #fff;
+}
+.top-right a {
+    color: #fff;
+    text-decoration: none;
+}
+.menuarea {
+    color: #FFF;
+}
+.menuarea ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.menuarea li {
+    height: 40px;
+    line-height: 40px;
+    font-size: 12px;
+    padding-left: 30px;
+    background-size: 10px 10px;
+    background-repeat: no-repeat;
+    background-position: 10px 14px;
+}
+.menuarea li:hover {
+    background-color: #062e84;
+}
+.menuarea li a {
+    color: #FFF;
+    text-decoration: none;
+    display: block;
+}
+.menuarea li:nth-child(1) {
+    background-image: url('../imgs/home.png');
+}
+.menuarea li:nth-child(2) {
+    background-image: url('../imgs/key.png');
+}

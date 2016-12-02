@@ -1,14 +1,34 @@
 <html>
     <head>
-        <title>Dashboard - <?php echo $viewData['company_name']; ?></title>
-        <link href="../assets/css/style.css" rel="stylesheet"/>
+        <title>Painel - <?php echo $viewData['company_name']; ?></title>
+        <link href="../assets/css/template.css" rel="stylesheet"/>
     </head>
     <body>
-        <h1>Topo do meu site</h1>
-        <?php 
-            $this->loadViewInTemplate($viewName, $viewData)
-        ?>
-        <h2>Rodapé do meu site</h2>
+        <div class="leftmenu">
+            <div class="company_name">
+                <?php echo $viewData['company_name']; ?>
+            </div>
+            <div class="menuarea">
+                <ul>
+                    <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
+                    <li><a href="<?php echo BASE_URL."/permissions"; ?>">Permissões</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="container">
+            <div class="top">
+                <div class="top-right">
+                    <a href="<?php echo BASE_URL."/login/logout"; ?>">Sair</a>
+                </div>
+                <div class="top-right"><?php echo $viewData['user_email']; ?></div>
+            </div>
+            <div class="area">
+                <?php $this->loadViewInTemplate($viewName, $viewData); ?>
+            </div>
+        </div>
     </body>
 </html>
 

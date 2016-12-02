@@ -47,10 +47,13 @@ class Users extends model {
                 $this->userInfo = $sql->fetch();
             }
         } else {
-            session_abort();
-            $_SESSION = [];
-            header("Location: ". BASE_URL ."/login");
+            $this->logOut();
         }
+    }
+        
+    public function logout() {
+        unset($_SESSION['ccUser']);
+        header("Location: ". BASE_URL);
     }
     
     public function getCompany() {
@@ -58,7 +61,14 @@ class Users extends model {
             return $this->userInfo['id_company'];
         } else {
             return 0;
+        }        
+    }
+    
+    public function getEmail() {
+        if (isset($this->userInfo['email'])) {
+            return $this->userInfo['email'];
+        } else {
+            return '';
         }
-        
     }
 }
