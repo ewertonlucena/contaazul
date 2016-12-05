@@ -7,6 +7,7 @@
 class Users extends model {
     
     private $userInfo;
+    private $permissions;
     
     public function isLogged() {
         if(isset($_SESSION['ccUser']) && !empty($_SESSION['ccUser'])){
@@ -45,15 +46,19 @@ class Users extends model {
             
             if($sql->rowCount() > 0){
                 $this->userInfo = $sql->fetch();
+                $this->permissions = new Permissions;
+                $this->permissions->setGroup($this->userInfo['group'], $this->userInfo['id_company']);
             }
-        } else {
-            $this->logout();
         }
     }
         
     public function logout() {
         unset($_SESSION['ccUser']);
         header("Location: ". BASE_URL);
+    }
+    
+    public function hasPermission($name) {
+        return $this->permissions->hasPermission($name);
     }
     
     public function getCompany() {

@@ -29,5 +29,7 @@ class loginController extends controller {
     public function logout() {
         $u = new Users();
         $u->logout();
+       
+        
     }
 }

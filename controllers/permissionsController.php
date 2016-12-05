@@ -25,7 +25,11 @@ class permissionsController extends controller {
         $data['company_name'] = $company->getName();
         $data['user_email'] = $u->getEmail();
         
-        $this->loadTemplate('permissions', $data);     
+        if($u->hasPermission('permissions_view')) {
+            $this->loadTemplate('permissions', $data);
+        } else {
+            header("Location: " . BASE_URL);
+        }
     }
     
 }
