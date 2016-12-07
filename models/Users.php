@@ -31,8 +31,7 @@ class Users extends model {
             return true;
         } else {
             return false;
-        }
-        
+        }        
     }
     
     public function setLoggedUser() {

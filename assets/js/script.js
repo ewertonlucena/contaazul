@@ -9,4 +9,14 @@ $(function(){
     });
 });
 
+$(function(){
+    $('#chkAll').on('click', function () {
+        var val = this.checked;
+        $('input[type=checkbox]').each(function () {
+            $(this).prop('checked', val);
+        });
+    });
+});
+
+
 
