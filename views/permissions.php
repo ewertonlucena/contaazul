@@ -5,6 +5,7 @@
     <div class="tabitem">Permissões</div>
 </div>
 <div class="tabcontent">
+    
     <div class="tabbody" style="display: block">
         <a href="<?php echo BASE_URL; ?>/permissions/addGroup">
             <div class="button" >Adicionar Grupo</div></a>
@@ -15,7 +16,7 @@
                 <th>Ações</th>
             </tr>
             <?php 
-                $cores = array('#f9f9f9','#ddd');
+                $cores = array('#f9f9f9','#dddddd');
             ?>
             <?php foreach ($permissions_groups_list as $key => $p) : ?>
             <tr bgcolor="<?php echo $cores[$key % 2]; ?>">
@@ -39,6 +40,7 @@
             <?php endforeach; ?>            
         </table>       
     </div>
+    
     <div class="tabbody">
         <a href="<?php echo BASE_URL; ?>/permissions/add">
             <div class="button" >Adicionar Permissão</div></a>
@@ -65,5 +67,5 @@
             </tr>
             <?php endforeach; ?>            
         </table>        
-    </div>
+    </div>    
 </div>

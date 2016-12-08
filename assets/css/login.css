@@ -32,6 +32,7 @@ body {
     border-radius: 5px;
     border: 1px solid #CCC;
     font-size: 100%;
+    margin-top: 5px;
 }
 
 .loginarea input[type=submit] {
@@ -52,7 +53,7 @@ body {
     margin-top: 20px;
    
 }
-
+/*
 @media only screen and (max-width: 1080px) {
     body {
         font-size: 200%;
@@ -71,5 +72,4 @@ body {
     border: 1px solid #CCC;
     padding: 15px;
   
-}
-}
+}*/

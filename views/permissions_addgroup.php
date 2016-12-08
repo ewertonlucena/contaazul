@@ -11,7 +11,7 @@
             </th>                
         </tr>
         <?php
-        $cores = array('#f9f9f9', '#ddd');
+        $cores = array('#f9f9f9', '#dddddd');
         ?>
         <?php foreach ($permissions_list as $key => $p) : ?>
         <tr bgcolor="<?php echo $cores[$key % 2]; ?>">                
@@ -25,6 +25,8 @@
         <?php endforeach; ?>            
     </table>
     <br/>
-    <input type="submit" value="Adicionar" /> 
+    <input type="submit" value="Adicionar" />
+    <div class="button"><a href="<?php 
+            echo BASE_URL.'/permissions'; ?>" >Cancelar</a></div>
 </form>
 
