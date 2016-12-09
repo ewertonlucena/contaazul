@@ -98,12 +98,12 @@ class Permissions extends model {
     }
 
     public function add($name, $id_company) {
-
         $sql = $this->db->prepare("INSERT INTO permission_params SET "
                 . "name = :name, id_company = :id_company");
         $sql->bindValue(":name", $name);
         $sql->bindValue(":id_company", $id_company);
         $sql->execute();
+        echo "Permissão Adicionada com Sucesso!";
     }
 
     public function addGroup($gname, $plist, $id_company) {
