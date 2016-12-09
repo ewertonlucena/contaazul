@@ -1,6 +1,7 @@
 <?php
 session_start();
 require 'config.php';
+require 'functions.php';
 spl_autoload_register(function ($class) {
     if (strpos($class, 'Controller') > -1) { //Verifica se há a string 'Controller'
         if (file_exists('controllers/' . $class . '.php')) {

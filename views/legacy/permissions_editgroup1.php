@@ -1,4 +1,4 @@
-<h1>Permissões - Editar Grupo</h1>
+<h3>Permissões - Editar Grupo</h3>
 
 <form method="POST">
     <label for="name">Nome do Grupo</label><br/>

@@ -13,7 +13,7 @@ class Core {
         $url = explode('index.php', $_SERVER['REQUEST_URI']);
         $url = end($url);
         $params = [];
-        
+
         if (!empty($url) && $url != '/') { //Se variavel $url não estiver vazia 
             //execute o código abaixo
             $url = explode('/', $url); //converte a url em array usando "/" como delimitador
@@ -43,5 +43,4 @@ class Core {
         $c = new $currentController();
         call_user_func_array(array($c, $currentAction), $params);
     }
-
 }

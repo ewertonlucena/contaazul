@@ -59,22 +59,28 @@ class permissionsController extends controller {
 
     public function add() {
         $data = [];
+        $names = [];
         $u = new Users();
         $u->setLoggedUser();
         $company = new Companies($u->getCompany());
         $data['company_name'] = $company->getName();
         $data['user_email'] = $u->getEmail();
-
+        
         if ($u->hasPermission('permissions_view')) {
             $permissions = new Permissions();
-
-            if (isset($_POST['name']) && !empty($_POST['name'])) {
-                $pname = addslashes($_POST['name']);
-                $permissions->add($pname, $u->getCompany());                
-            }
             $data['permissions_list'] = $permissions->getList($u->getCompany());
             $data['permissions_groups_list'] = $permissions->getGroupList($u->getCompany());
-            //$this->loadTemplate('permissions_add', $data);
+                       
+            if (isset($_POST['name']) && !empty($_POST['name'])) {
+                $pname = addslashes($_POST['name']);
+                $pname = convertM($pname, 2);
+                $names = array_column($data['permissions_list'], 'name');                
+                if (in_array($pname, $names) == FALSE) {
+                    $permissions->add($pname, $u->getCompany());                
+                } else {
+                    echo "Nome da permissão já existe!";
+                }
+            }                        
         } else {
             header("Location: " . BASE_URL );
         }
@@ -100,8 +106,7 @@ class permissionsController extends controller {
             }
 
             $data['permissions_list'] = $permissions->getList($u->getCompany());
-            $data['permissions_groups_list'] = $permissions->getGroupList($u->getCompany());
-           // $this->loadTemplate('permissions_addgroup', $data);
+            $data['permissions_groups_list'] = $permissions->getGroupList($u->getCompany());          
         } else {
             header("Location: " . BASE_URL );
         }
@@ -119,7 +124,7 @@ class permissionsController extends controller {
             $permissions = new Permissions();
             $permissions->delete($id);
 
-            header("Location: " . BASE_URL . "/permissions");
+            header("Location: " . BASE_URL . "/permissions/ptab");
         } else {
             header("Location: " . BASE_URL );
         }

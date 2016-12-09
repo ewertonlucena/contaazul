@@ -71,7 +71,7 @@ $(function() {
           data: info,
           success: function(data) {
             alert(data);
-            window.location = '/permissions/ptab';
+            window.location = '/permissions/ptab'
           },
           error: function(data) {
             alert("Impossível Adicionar Permissão");
