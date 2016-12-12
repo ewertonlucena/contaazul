@@ -71,7 +71,7 @@ class Permissions extends model {
         $array = [];
 
         $sql = $this->db->prepare("SELECT * FROM permission_params WHERE "
-                . "id_company = :id_company");
+                . "id_company = :id_company ORDER BY id");
         $sql->bindValue(":id_company", $id_company);
         $sql->execute();
 
@@ -87,7 +87,7 @@ class Permissions extends model {
 
         $sql = $this->db->prepare("SELECT * FROM permission_groups WHERE "
                 . "id_company = :id_company");
-        $sql->bindValue(":id_company", $id_company);
+        $sql->bindValue(":id_company", $id_company, PDO::PARAM_STR);
         $sql->execute();
 
         if ($sql->rowCount() > 0) {
@@ -98,13 +98,13 @@ class Permissions extends model {
     }
 
     public function add($name, $id_company) {
-        
+                        
         $sql = $this->db->prepare("INSERT INTO permission_params SET "
                 . "name = :name, id_company = :id_company");
-        $sql->bindValue(":name", $name);
+        $sql->bindParam(":name", $name);
         $sql->bindValue(":id_company", $id_company);
         $sql->execute();
-        echo "Permiss√£o Adicionada com Sucesso!";
+        echo "Permiss„o Adicionada com Sucesso!";
     }
 
     public function addGroup($gname, $plist, $id_company) {

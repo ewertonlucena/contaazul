@@ -1,13 +1,13 @@
-<h1>PermissÃµes</h1>
+<h1>Permissões</h1>
 
 <div class="tabarea">
     <div class="tabitem activetab">Grupos</div>
-    <a href="<?php echo BASE_URL.'/permissions/ptab'; ?>"><div class="tabitem">PermissÃµes</div></a>
+    <div class="tabitem"><a href="<?php echo BASE_URL.'/permissions/ptab'; ?>">Permissões</a></div>
 </div>
 <div class="tabcontent">
 
     <div class="tabbody groups activebody" style="display: block">
-        <h3>PermissÃµes - Editar Grupo</h3>
+        <h3>Permissões - Editar Grupo</h3>
         <form method="POST">
             <label for="name">Nome do Grupo</label><br/>
             <input type="text" name="name" width="30%" value="<?php echo $group_info['name']; ?>" /><br/><br/>
@@ -15,7 +15,7 @@
                 <tr>
                     <th colspan="2">
                         <input type="checkbox" id="chkAll" name="checkAll"/>
-                        <label for="chkAll">Todas PermissÃµes</label>
+                        <label for="chkAll">Todas Permissões</label>
                     </th>                
                 </tr>
                 <?php

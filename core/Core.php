@@ -3,7 +3,7 @@
 /**
  * Core do sistema
  * 
- * Faz a conex√£o entre index.php e as classes do MVC.
+ * Faz a conex„o entre index.php e as classes do MVC.
  *
  * @author ewertonlucena@gmail.com
  */
@@ -14,8 +14,8 @@ class Core {
         $url = end($url);
         $params = [];
 
-        if (!empty($url) && $url != '/') { //Se variavel $url n√£o estiver vazia 
-            //execute o c√≥digo abaixo
+        if (!empty($url) && $url != '/') { //Se variavel $url n„o estiver vazia 
+            //execute o cÛdigo abaixo
             $url = explode('/', $url); //converte a url em array usando "/" como delimitador
             array_shift($url); //retira o primeiro valor do array $url
 
@@ -25,15 +25,15 @@ class Core {
             if (isset($url[0])) { //Se $url[1](Action) foi digitada
                 $currentAction = $url[0]; //set Action = $url[1]
                 array_shift($url); //retira o Action do array $url
-            } else { //Sen√£o, valor n√Éo digitado
+            } else { //Sen„o, valor n„o digitado
                 $currentAction = 'index'; //set Action = 'index'
             }
 
             if (count($url) > 0) {
                 $params = $url;
             }
-        } else { //sen√£o, execute isso
-            //execu√ß√£o padr√£o para $url vazia
+        } else { //sen„o, execute isso
+            //execuÁ„o padr√£o para $url vazia
             $currentController = 'homeController'; //set Controler = 'home'
             $currentAction = 'index'; //set Action = 'index'
         }

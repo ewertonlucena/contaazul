@@ -1,3 +1,11 @@
+$.ajaxSetup({
+  contentType: 'application/x-www-form-urlencoded; charset=ISO-8859-1',
+  beforeSend: function(xhr) {
+    if(xhr.overrideMimeType) 
+      xhr.overrideMimeType('application/x-www-form-urlencoded; charset=ISO-8859-1');
+  }
+});
+
 $(function () {
     $('.tabitem').on('click', function () {
         $('.activetab').removeClass('activetab');

@@ -36,7 +36,7 @@ class permissionsController extends controller {
             header("Location: " . BASE_URL);
         }
     }
-    
+
     public function ptab() {
         $data = [];
         $u = new Users();
@@ -65,29 +65,31 @@ class permissionsController extends controller {
         $company = new Companies($u->getCompany());
         $data['company_name'] = $company->getName();
         $data['user_email'] = $u->getEmail();
-        
+
         if ($u->hasPermission('permissions_view')) {
             $permissions = new Permissions();
             $data['permissions_list'] = $permissions->getList($u->getCompany());
             $data['permissions_groups_list'] = $permissions->getGroupList($u->getCompany());
-                       
+
             if (isset($_POST['name']) && !empty($_POST['name'])) {
                 $pname = addslashes($_POST['name']);
-                $pname = convertM($pname, 2);
-                $names = array_column($data['permissions_list'], 'name');                
+                $names = array_column($data['permissions_list'], 'name');
+                $pname = utf8_decode($pname);
+               
                 if (in_array($pname, $names) == FALSE) {
-                    $permissions->add($pname, $u->getCompany());                
+                    $permissions->add($pname, $u->getCompany());
                 } else {
-                    echo "Nome da permiss√£o j√° existe!";
+                    echo "Nome da permiss„o j· existe!";
                 }
-            }                        
+            }
         } else {
-            header("Location: " . BASE_URL );
+            header("Location: " . BASE_URL);
         }
     }
 
     public function addGroup() {
         $data = [];
+        $plist = [];
         $u = new Users();
         $u->setLoggedUser();
         $company = new Companies($u->getCompany());
@@ -97,18 +99,17 @@ class permissionsController extends controller {
         if ($u->hasPermission('permissions_view')) {
             $permissions = new Permissions();
 
-            if (isset($_POST['name']) && !empty($_POST['name'])) {
+            if (isset($_POST['name']) && !empty($_POST['name']) && isset($_POST['permissions']) && !empty($_POST['permissions'])) {
                 $gname = addslashes($_POST['name']);
                 $plist = $_POST['permissions'];
-                
                 $permissions->addGroup($gname, $plist, $u->getCompany());
                 header("Location: " . BASE_URL . "/permissions");
             }
 
             $data['permissions_list'] = $permissions->getList($u->getCompany());
-            $data['permissions_groups_list'] = $permissions->getGroupList($u->getCompany());          
+            $data['permissions_groups_list'] = $permissions->getGroupList($u->getCompany());
         } else {
-            header("Location: " . BASE_URL );
+            header("Location: " . BASE_URL);
         }
     }
 
@@ -126,11 +127,11 @@ class permissionsController extends controller {
 
             header("Location: " . BASE_URL . "/permissions/ptab");
         } else {
-            header("Location: " . BASE_URL );
+            header("Location: " . BASE_URL);
         }
     }
-    
-    public function deleteGroup($id) {        
+
+    public function deleteGroup($id) {
         $data = [];
         $u = new Users();
         $u->setLoggedUser();
@@ -140,24 +141,24 @@ class permissionsController extends controller {
 
         if ($u->hasPermission('permissions_view')) {
             $permissions = new Permissions();
-            if($permissions->deleteGroup($id) == '0') {
-                echo '<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">'.
-                        'window.location = "'. BASE_URL . '/permissions";'.
-                        'alert ("Permiss√£o Exclu√≠da com Sucesso!");'.
-                     '</SCRIPT>'; 
+            if ($permissions->deleteGroup($id) == '0') {
+                echo '<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">' .
+                'window.location = "' . BASE_URL . '/permissions";' .
+                'alert ("Grupo de Permissıes ExcluÌdo com Sucesso!");' .
+                '</SCRIPT>';
             } else {
                 echo '<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">'
-                        . 'window.location = "'. BASE_URL . '/permissions";'
-                        . 'alert ("N√£o foi poss√≠vel excluir permiss√£o!\n"+'
-                        . '"Motivo: H√° '.$permissions->deleteGroup($id).' '
-                        . 'Usu√°rio(s) vinculado(s) a esta permiss√£o.");'
-                        . '</SCRIPT>';
+                . 'window.location = "' . BASE_URL . '/permissions";'
+                . 'alert ("N„o foi possÌvel excluir permiss„o!\n"+'
+                . '"Motivo: H·° ' . $permissions->deleteGroup($id) . ' '
+                . 'Usu·rio(s) vinculado(s) a esta permiss„o.");'
+                . '</SCRIPT>';
             }
         } else {
-            header("Location: " . BASE_URL );
-        }        
+            header("Location: " . BASE_URL);
+        }
     }
-    
+
     public function editGroup($id) {
         $data = [];
         $u = new Users();
@@ -172,7 +173,7 @@ class permissionsController extends controller {
             if (isset($_POST['name']) && !empty($_POST['name'])) {
                 $gname = addslashes($_POST['name']);
                 $plist = $_POST['permissions'];
-                
+
                 $permissions->editGroup($gname, $plist, $id, $u->getCompany());
                 header("Location: " . BASE_URL . "/permissions");
             }
@@ -183,7 +184,8 @@ class permissionsController extends controller {
 
             $this->loadTemplate('permissions_editgroup', $data);
         } else {
-            header("Location: " . BASE_URL );
+            header("Location: " . BASE_URL);
         }
     }
+
 }
