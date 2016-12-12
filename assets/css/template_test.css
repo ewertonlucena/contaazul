@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;   
+    font-family: Verdana;
+}
+.site {
+    width: 100%;
+    max-width: 800px;
+    height: 800px;
+    top: 0px;
+    bottom: 0px;
+    background-color: #eeeeee;
+    margin: auto;
+    display: block;
+}
+.top {
+    width: 75%;
+    float: right;
+    height: 40px;
+    background-color: #999;
+    display: block;
+}
+.menubutton {
+    display: none;
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-color: #ccc;
+}
+.leftmenu {
+    width: 25%;
+    float: left;
+    height: 760px;
+    background-color: #ccc;
+    display: block;
+}
+.container {
+    width: 75%;
+    float: right;
+    height: 720px; 
+    background-color: #555;
+    display: block;
+}
+.footer {
+    width: 100%;
+    float: left;
+    height: 40px;
+    bottom: 0;
+    background-color: #aaa;
+    display: block;
+}
+
+@media only screen and (max-width:800px) {
+    .top {
+        width: 100%;
+    }    
+    .leftmenu {
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }    
+    .container {
+        width: 100%;
+    }
+}

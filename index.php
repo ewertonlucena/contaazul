@@ -1,5 +1,5 @@
 <?php
-//header ('Content-type: text/html; charset=ISO-8859-1');
+header ('Content-type: text/html; charset=ISO-8859-1');
 //declare(encoding='ISO-8859-1');
 session_start();
 require 'config.php';
