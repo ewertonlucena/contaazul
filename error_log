@@ -213,3 +213,13 @@ Stack trace:
 #0 C:\wamp64\www\contaazul\index.php(20): Core->run()
 #1 {main}
   thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[12-Dec-2016 21:36:50 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[12-Dec-2016 21:37:04 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
