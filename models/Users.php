@@ -76,6 +76,26 @@ class Users extends model {
         }
     }
     
+    public function getList($id_company) {
+        $array = [];
+        $sql = $this->db->prepare(""
+                . "SELECT "
+                . "u.id AS id, "
+                . "u.email AS email, "
+                . "g.name AS group_name "
+                . "FROM users AS u, "
+                . "permission_groups AS g WHERE u.id_group = g.id "
+                . "AND u.id_company = :id_company");
+        $sql->bindValue(':id_company', $id_company);
+        $sql->execute();        
+        
+        if($sql->rowCount() > 0) {
+            $array = $sql->fetchAll();
+        }
+        
+        return $array;
+    }
+    
     public function findUsersInGroup($id) {
         
         $sql = $this->db->prepare("SELECT COUNT(*) as c FROM users WHERE "

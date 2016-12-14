@@ -19,7 +19,7 @@
             <?php foreach ($permissions_groups_list as $key => $p) : ?>
             <tr bgcolor="<?php echo $cores[$key % 2]; ?>">
                 <td><?php echo $p['name']; ?></td>
-                <td width="200">
+                <td width="150">
                     <div class="button button_small">
                         <a href="<?php echo BASE_URL; 
                         ?>/permissions/editGroup/<?php 
