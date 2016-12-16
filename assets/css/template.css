@@ -140,7 +140,16 @@ body {
     display: none;
     border: 1px solid #000;    
 }
-input[type=text] {
+input[type=text],
+input[type=email],
+input[type=password] {
+    height: 30px;   
+    outline: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 5px;
+}
+select {
     height: 30px;   
     outline: 0;
     padding-left: 5px;
@@ -194,6 +203,14 @@ table td {
     padding-right: 10px;
     text-align: left;
     border-bottom: 1px solid #000;
+}
+.warning {
+    border: 2px solid #F00;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #F99;
+    color: #000;
+    margin-top: 20px;   
 }
 /*
 @media only screen and (max-width: 768px) {    
