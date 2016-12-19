@@ -53,10 +53,8 @@ class usersController extends controller {
                     header("Location: ".BASE_URL."/users");
                 } else {
                     $data['error_msg'] = "Usuário já existe!";
-                }
-                
+                }                
             }
-
             $data['group_list'] = $p->getGroupList($u->getCompany());
             $this->loadTemplate('users_add', $data);
         } else {
@@ -85,6 +83,24 @@ class usersController extends controller {
             $data['userInfo'] = $u->getInfo($id, $u->getCompany());
             $data['group_list'] = $p->getGroupList($u->getCompany());
             $this->loadTemplate('users_edit', $data);
+        } else {
+            header("Location: " . BASE_URL);
+        }
+    }
+    
+    public function delete($id) {
+        $data = [];
+        $u = new Users();
+        $u->setLoggedUser();
+        $company = new Companies($u->getCompany());
+        $data['company_name'] = $company->getName();
+        $data['user_email'] = $u->getEmail();
+
+        if ($u->hasPermission('users_view')) {
+            $p = new Permissions();
+            $u->delete($id, $u->getCompany());
+            
+            header("Location: " . BASE_URL ."/users");            
         } else {
             header("Location: " . BASE_URL);
         }

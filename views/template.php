@@ -6,6 +6,7 @@
         <link href="<?php echo BASE_URL . "/assets/css/template.css"; ?>" rel="stylesheet"/>
         <script type="text/javascript" src="<?php echo BASE_URL . "/assets/js/jquery-3.1.1.min.js"; ?>" charset="ISO-8859-1"></script>
         <script type="text/javascript" src="<?php echo BASE_URL . "/assets/js/script.js"; ?>" charset="ISO-8859-1"></script>
+        
     </head>
     <body>
         <div class="site">
@@ -18,7 +19,7 @@
                         <li><a href="<?php echo BASE_URL; ?>">Home</a></li>
                         <li><a href="<?php echo BASE_URL . "/permissions"; ?>">Permissões</a></li>
                         <li><a href="<?php echo BASE_URL . "/users"; ?>">Usuários</a></li>
-
+                        <li><a href="<?php echo BASE_URL . "/clients"; ?>">Clientes</a></li>
                     </ul>
                 </div>
             </div>

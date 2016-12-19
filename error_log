@@ -740,3 +740,1388 @@ Stack trace:
 #0 C:\wamp64\www\contaazul\index.php(20): Core->run()
 #1 {main}
   thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 20:48:05 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 20:48:13 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 20:48:19 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 20:48:23 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 20:48:31 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 20:48:37 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 20:48:53 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 20:49:05 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:47:32 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:47:43 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:47:56 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:48:01 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:48:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:48:18 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:58:37 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:58:58 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:59:19 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:59:27 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[16-Dec-2016 21:59:37 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 11:18:49 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 11:21:01 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 11:21:05 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 17:57:19 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 17:57:27 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 17:57:56 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:20:13 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:20:18 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:49:13 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:49:30 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:52:58 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:53:07 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:53:12 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:53:17 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:55:19 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:58:28 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:58:44 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:59:26 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 18:59:55 America/Recife] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\contaazul\models\Clients.php on line 11
+[17-Dec-2016 18:59:55 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:00:20 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:01:27 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:03:42 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:03:47 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:04:00 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:04:45 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:05:55 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:06:00 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:06:15 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:07:41 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:07:51 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:08:14 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:28:33 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:29:14 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:33:29 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:34:06 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:34:17 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:34:27 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:34:36 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:34:43 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:34:52 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:34:55 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:35:03 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:35:07 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:35:13 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:35:22 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:35:44 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:38:08 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:38:27 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:39:21 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:39:33 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:39:48 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:39:59 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:41:04 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:41:15 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:41:25 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:47:21 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:47:25 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:47:31 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:47:40 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:47:51 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:47:54 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:47:58 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:48:07 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:48:10 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:48:20 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 19:48:24 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:41:29 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:41:34 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:41:42 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:41:47 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:41:56 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:42:01 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:42:06 America/Recife] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\contaazul\views\clients_add.php on line 17
+[17-Dec-2016 20:42:06 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:42:24 America/Recife] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\contaazul\views\clients_add.php on line 18
+[17-Dec-2016 20:42:24 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 20:44:10 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:08:04 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:08:19 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:09:00 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:09:06 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:09:58 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:10:04 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:11:25 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:11:30 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:11:45 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:11:50 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:13:54 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:13:58 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:30:08 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:34:23 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:56:43 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:57:37 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:57:53 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 21:59:10 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:00:04 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:00:25 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:00:38 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:01:07 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:01:13 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:01:35 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:40:07 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:40:42 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:42:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:45:23 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:47:27 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:54:54 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:55:55 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:56:35 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:57:01 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:57:54 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 22:58:17 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:14:51 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:15:08 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:16:10 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:16:16 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:16:56 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:17:29 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:18:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:18:22 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[17-Dec-2016 23:19:32 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:22:39 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:24:30 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:24:35 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:29:58 America/Recife] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\contaazul\models\Clients.php on line 10
+[18-Dec-2016 11:29:58 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:30:37 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:31:16 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:34:08 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:34:29 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 11:34:41 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 13:58:11 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 13:58:15 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 13:59:39 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:00:42 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:01:53 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:08:28 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:35:46 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:47:42 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:47:52 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:48:20 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:48:49 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:48:58 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:49:34 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:49:53 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:50:25 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:52:16 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 14:52:36 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 15:25:52 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 15:30:40 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 15:36:25 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 15:56:56 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:23:02 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:30:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'assetsController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:30:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'assetsController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:30:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'assetsController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:30:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'assetsController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:30:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:33:53 America/Recife] PHP Fatal error:  Uncaught Error: Class 'assetsController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:33:53 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:34:37 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:36:08 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:38:16 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:39:32 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:41:15 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:41:58 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:46:41 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:47:47 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:49:05 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:49:43 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:50:09 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:51:26 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:52:26 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:53:26 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:53:54 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:54:10 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 16:54:37 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:02:59 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:03:48 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:04:55 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:05:40 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:06:10 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:06:31 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:07:12 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:07:43 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:08:05 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:09:45 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:10:27 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:11:11 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:15:44 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:20:03 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:20:22 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:21:52 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:45:19 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:49:22 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:50:07 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:54:24 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 17:57:39 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:09:12 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:11:14 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:13:28 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:14:35 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:22:43 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:27:55 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:46:52 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:46:57 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:48:16 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:48:21 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:48:36 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:48:39 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:48:47 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:49:08 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 18:49:13 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 19:07:32 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 19:08:51 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 20:10:10 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 20:10:39 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 20:11:00 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 20:11:43 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 20:20:02 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 20:20:28 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 20:34:26 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 20:37:17 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:22:22 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:22:28 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:23:03 America/Recife] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\contaazul\models\Clients.php on line 38
+[18-Dec-2016 21:23:03 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\contaazul\models\Clients.php:38) in C:\wamp64\www\contaazul\controllers\clientsController.php on line 66
+[18-Dec-2016 21:23:03 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:24:07 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:24:13 America/Recife] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\wamp64\www\contaazul\models\Clients.php on line 38
+[18-Dec-2016 21:24:13 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\contaazul\models\Clients.php:38) in C:\wamp64\www\contaazul\controllers\clientsController.php on line 66
+[18-Dec-2016 21:24:13 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:25:51 America/Recife] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in C:\wamp64\www\contaazul\models\Clients.php on line 37
+[18-Dec-2016 21:25:51 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\contaazul\models\Clients.php:37) in C:\wamp64\www\contaazul\controllers\clientsController.php on line 67
+[18-Dec-2016 21:25:52 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:33:25 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:33:43 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:34:27 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:34:46 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:48:15 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:48:28 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 21:48:36 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:05:00 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:05:16 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:06:56 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:07:15 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:13:19 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:13:36 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:13:47 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:14:01 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:18:05 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:32:16 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:32:23 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 22:32:45 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:00:54 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:01:00 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:01:19 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:15:08 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:15:37 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:16:41 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:16:57 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:18:25 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:19:04 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:30:35 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43
+[18-Dec-2016 23:32:30 America/Recife] PHP Fatal error:  Uncaught Error: Class 'favicon.icoController' not found in C:\wamp64\www\contaazul\core\Core.php:43
+Stack trace:
+#0 C:\wamp64\www\contaazul\index.php(20): Core->run()
+#1 {main}
+  thrown in C:\wamp64\www\contaazul\core\Core.php on line 43

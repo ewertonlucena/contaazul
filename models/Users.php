@@ -173,5 +173,15 @@ class Users extends model {
         $sql->execute();
         }
     }
-
+    
+    public function delete($id, $id_company) {
+        $sql = $this->db->prepare("DELETE FROM users "
+                . "WHERE "
+                . "id = :id "
+                . "AND "
+                . "id_company = :id_company");
+        $sql->bindValue(':id', $id);
+        $sql->bindValue(':id_company', $id_company);
+        $sql->execute();
+    }
 }
