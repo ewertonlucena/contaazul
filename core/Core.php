@@ -2,7 +2,7 @@
 
 /**
  * Core do sistema
- * 
+ *
  * Faz a conexão entre index.php e as classes do MVC.
  *
  * @author ewertonlucena@gmail.com
@@ -12,9 +12,12 @@ class Core {
     public function run() { //inicia class Core
         $url = explode('index.php', $_SERVER['REQUEST_URI']);
         $url = end($url);
+        $url = explode('?', $url);
+        $url = reset($url);
+
         $params = [];
 
-        if (!empty($url) && $url != '/') { //Se variavel $url não estiver vazia 
+        if (!empty($url) && $url != '/') { //Se variavel $url não estiver vazia
             //execute o código abaixo
             $url = explode('/', $url); //converte a url em array usando "/" como delimitador
             array_shift($url); //retira o primeiro valor do array $url
@@ -43,4 +46,5 @@ class Core {
         $c = new $currentController();
         call_user_func_array(array($c, $currentAction), $params);
     }
+
 }

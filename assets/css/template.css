@@ -162,6 +162,7 @@ textarea {
 }
 .zipok {
     border: 1px solid green;
+    background-color: #99ff99;
     background-image: url(../imgs/ok.png);
     background-size: 13px 13px;
     background-origin:content-box;
@@ -170,6 +171,7 @@ textarea {
 }
 .zipwarn {
     border: 1px solid orange;
+    background-color: #fff7e4;
     background-image: url(../imgs/warning.png);
     background-size: 13px 13px;
     background-origin:content-box;
@@ -194,12 +196,18 @@ button,
     height: 30px;
     line-height: 30px;
     padding-left: 10px;
-    padding-right: 10px;
-    
+    padding-right: 10px;    
 }
 .button a {
     color: #fff;
     text-decoration: none;    
+}
+.disabled {
+    background-color: #999999;
+    cursor: not-allowed;
+}
+.activepag {
+    background-color: #0066ff;
 }
 table {
     margin-top: 10px;
@@ -231,6 +239,20 @@ table td {
     background-color: #F99;
     color: #000;
     margin-top: 20px;   
+}
+.success {
+    border: 2px solid green;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #99ff99;
+    color: #000;
+    margin-top: 20px;   
+}
+.pagination {
+    float: right;    
+}
+.pag_item {
+  
 }
 /*
 @media only screen and (max-width: 768px) {    

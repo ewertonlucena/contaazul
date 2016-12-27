@@ -13,7 +13,7 @@
     <label for="email">E-mail:</label>
     <input type="email" name="email" id="email" /><br/><br/>
     
-    <label for="email">CPF:</label>
+    <label for="cpf">CPF:</label>
     <input type="number" name="cpf" id="cpf" pattern="[0-9]{11}" placeholder="Apenas números" title="Apenas números" required/><br/><br/>
     
     <label for="phone">Telefone:</label>
@@ -22,7 +22,7 @@
     <label for="cell_phone">Celular:</label>
     <input type="text" name="cell_phone" id="cell_phone" pattern="[0-9 ()-]{10,16}" title="Apenas telefones válidos&#10;(xx) x xxxx-xxxx" placeholder="(xx) x xxxx-xxxx"/><br/><br/>
     
-    <label for="phone">Estrelas:</label>
+    <label for="stars">Estrelas:</label>
     <select name="stars" id="stars">
         <option value="1">1 Estrela</option>
         <option value="2">2 Estrelas</option>
@@ -31,7 +31,7 @@
         <option value="5">5 Estrelas</option>
     </select><br/><br/>
     
-    <label for="name">Observações: </label>
+    <label for="internal_obs">Observações: </label>
     <textarea name="internal_obs" id="internal_obs"></textarea><br/><br/>
     
     <label for="addr_zipcode">CEP: </label>
