@@ -1,6 +1,6 @@
-body {    
+body {
     margin: 0;
-    padding: 0;   
+    padding: 0;
     font-family: Verdana;
 }
 .site {
@@ -15,8 +15,8 @@ body {
     background-color: #1f232a;
     float: left;
     height: 100%;
-    position: fixed; 
-   
+    position: fixed;
+
 }
 .company_name {
     height: 100px;
@@ -25,11 +25,11 @@ body {
     text-align: center;
     overflow: hidden;
     white-space: nowrap;
-    text-overflow: ellipsis;    
+    text-overflow: ellipsis;
 }
-.container {    
+.container {
     padding-left: 150px;
-   
+
 }
 .top {
    /* position: fixed; */
@@ -44,10 +44,10 @@ body {
    /* right: 0;
     z-index: 0;*/
 }
-.top-right {    
+.top-right {
     float: right;
     padding-left: 10px;
-    padding-right: 10px;    
+    padding-right: 10px;
     color: #fff;
 
 }
@@ -65,7 +65,7 @@ body {
 }
 .menuarea li {
     height: 40px;
-    line-height: 40px;    
+    line-height: 40px;
     padding-left: 30px;
     background-size: 13px 13px;
     background-repeat: no-repeat;
@@ -96,9 +96,9 @@ body {
     padding: 15px;
     padding-top: 60px;
 }
-.tabarea {   
+.tabarea {
     padding-left: 10px;
-    z-index: 1;   
+    z-index: 1;
 }
 .tabitem {
     float: left;
@@ -119,7 +119,7 @@ body {
     cursor: pointer;
     overflow: hidden;
     white-space: nowrap;
-    text-overflow: ellipsis;   
+    text-overflow: ellipsis;
 }
 .tabitem a {
     color: #000000;
@@ -130,18 +130,18 @@ body {
     margin-top: -1px;
     border-bottom: 3px solid #FFF;
     background: #FFF;
-    cursor: default;    
+    cursor: default;
 }
 .tabcontent {
     background-color: #fffff6;
-    padding-top: 41px;    
-    z-index: 0;     
+    padding-top: 41px;
+    z-index: 0;
 }
 .tabbody {
     background-color: #ffffff;
     padding: 20px;
     display: none;
-    border: 1px solid #000;    
+    border: 1px solid #000;
 }
 input[type=text],
 input[type=number],
@@ -149,7 +149,7 @@ input[type=email],
 input[type=password],
 select,
 textarea {
-    height: 30px;   
+    height: 30px;
     outline: 0;
     padding-left: 5px;
     padding-right: 5px;
@@ -189,18 +189,19 @@ button,
     border-radius: 3px;
     padding-left: 20px;
     padding-right: 20px;
-    cursor: pointer;   
+    cursor: pointer;
     display: inline-block;
 }
 .button_small {
     height: 30px;
     line-height: 30px;
     padding-left: 10px;
-    padding-right: 10px;    
+    padding-right: 10px;
 }
 .button a {
     color: #fff;
-    text-decoration: none;    
+    text-decoration: none;
+    display: block;
 }
 .disabled {
     background-color: #999999;
@@ -238,7 +239,7 @@ table td {
     border-radius: 5px;
     background-color: #F99;
     color: #000;
-    margin-top: 20px;   
+    margin-top: 20px;
 }
 .success {
     border: 2px solid green;
@@ -246,16 +247,16 @@ table td {
     border-radius: 5px;
     background-color: #99ff99;
     color: #000;
-    margin-top: 20px;   
+    margin-top: 20px;
 }
 .pagination {
-    float: right;    
+    float: right;
 }
 .pag_item {
-  
+
 }
 /*
-@media only screen and (max-width: 768px) {    
+@media only screen and (max-width: 768px) {
     body {
         font-size: 100%;
     }
@@ -265,7 +266,7 @@ table td {
     .leftmenu {
         width: 200px;
     }
-    .container {   
+    .container {
         padding-left: 200px;
     }
     .top {

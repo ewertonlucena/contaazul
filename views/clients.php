@@ -7,7 +7,7 @@
     <?php $cores = array('#f9f9f9', '#dddddd'); ?>
 
     <?php if ($edit_permission) : ?>
-        <a href="<?php echo BASE_URL; ?>/clients/add"><div class="button">Adicionar Cliente</div></a>
+    <div class="button"><a href="<?php echo BASE_URL; ?>/clients/add">Adicionar Cliente</a></div>
         <br/>
     <?php endif; ?>
 
